@@ -1,0 +1,249 @@
+*{padding: 0;
+    margin: 0;
+    
+}
+.sec1{
+    background-image: url(blue_bg.png);
+    background-size: cover;
+    position: relative;
+}
+.head{
+    display: flex;
+justify-content: space-between;
+padding-top: 40px;
+    
+}
+.right{
+    display: flex;
+    position: relative;
+    margin-right: 100px;
+}
+
+.right img{
+    margin-top: 10px;
+    position: relative;
+}
+
+.right h3{
+    position: absolute;
+    margin-left: 30px;
+    color: rgb(103, 58, 145);
+    margin-top: 12px;
+    
+}
+.left{
+        display: flex;
+        margin-left: 70px;
+    }
+.left a{
+    margin-top: 15px;
+    padding-right: 40px;
+    text-decoration: none;
+    color: black;
+}
+.home {
+    margin-top: 15px;
+    padding-right: 20px;
+
+}
+hr{
+    margin-top: 9px;
+    width: 30px;
+    margin-left: 5px;
+    color: rgb(103, 58, 145);}
+    .pic1{
+        display: flex;
+        position: relative;
+        z-index: -2;
+
+    }
+    .pic2{
+        display: flex;
+        position: absolute;
+        z-index: -1;
+        margin-left:120px ;
+margin-top: 50px;
+    }
+    .pic3{
+        display: flex;
+        position: absolute;
+        margin-top: 420px;
+    }
+    .picc{
+        display: flex;
+        position: relative;
+        transform: translate(150px,0px);
+    }
+    .work{
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+    }
+    .text1 h3{
+        color: rgb(67,64,61);
+        font-size: 55px;
+        padding-left: 30px;
+    }
+    span{
+        color: rgb(103, 58, 145);
+    }
+    .text1 p{
+        color: rgb(190,187,184);
+        padding-left: 30px;
+        font-size: 30px;
+    }
+    .text1{
+        transform: translate(250px,200px);
+    }
+    .sec6{
+        transform: translate(-400px,-140px);
+    }
+
+
+.sec21{
+display: flex;
+
+}
+.sec20{
+    margin-left:280px ;
+    margin-top: 15px;
+}
+.sec2{
+    height: 600px;
+
+    
+}
+.sec22{
+    transform: translate(180px,-450px);
+    margin-left: 20px;
+}
+.sec24{
+    transform: translate(90px,-320px);
+    margin-left: 260px;
+}
+.sec24 h2{
+    color: rgb(103, 100, 98);
+}
+.sec24 p{
+    color: rgb(190,187,184);
+}
+.sec22 h2{
+    color: rgb(103, 100, 98);
+}
+.sec22 p {
+    color: rgb(190,187,184);
+}
+.sec3{
+    display: flex;
+    justify-content: space-around;
+}
+.sec33 h2{
+    color: rgb(103, 100, 98);
+}
+.sec33 p {
+    color: rgb(190,187,184);
+}
+.sec33{
+    transform: translate(40px,-73px);
+}
+.sec31{
+    display: flex;
+    position: relative;
+}
+.sec32{
+    
+    position: absolute;
+    color:white;
+    transform: translate(60px,60px);
+    
+}
+.sec31{
+    transform:translate(-20px,-160px) ;
+}
+.sec4{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.sec41{
+    margin-left: 80px;
+    margin-right: 80px;
+    transform: translate(0px,-180px);
+}
+.sec42{
+    margin-left: 60px;
+}
+.sec42 h2{
+    color: rgb(103, 100, 98);
+}
+.sec42 p {
+    color: rgb(190,187,184);
+}
+.sec4 .fa-less-than{
+    color: rgb(103, 100, 98);
+    margin-top: 195px;
+    margin-left: 30px;
+}
+.sec4 .fa-greater-than{
+    color: rgb(103, 100, 98);
+    margin-top: 195px;
+    margin-right: 30px;
+}
+.sec43{
+    transform: translate(30px,-17px);
+}
+.sec5{
+    background-image: url(Group\ 1131.png);
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: space-around;
+}
+.down {
+    margin-top: 380px;
+}
+.down a {
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+.middle{
+    transform: translate(20px,350px);
+}
+.what{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.up{
+    display: flex;
+    transform: translate(0px,330px);
+}
+.up1{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 20%;
+    margin-right: 10px;
+}
+.up1 h4{
+    transform: translate(-10px,10px);
+}
+.up2{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 20%;
+}
+.up2 h4{
+    transform: translate(-10px,10px);
+}
+.up1 img{
+    transform: translate(0px,3px);
+}
+.up2 img{
+    transform: translate(0px,3px);
+}
